@@ -1,0 +1,17 @@
+.container-fluid{
+  height: 200px;
+  background-image: url('../img/leilei.jpg')
+}
+
+.container{
+  height: 200px;
+  background-color: black;
+}
+
+p{
+  text-align: center;
+  font-size: 4em;
+  float: inherit;
+  font-weight: bold;
+
+}
